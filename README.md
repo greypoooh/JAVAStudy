@@ -1,2 +1,2 @@
-JAVAStudy
+Programming Study
 =========
